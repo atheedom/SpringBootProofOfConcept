@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<properties>
-		<start-class>com.springbootpoc.Application</start-class>
+		<start-class>hello.Application</start-class>
 		<java.version>1.7</java.version>
 	</properties>
 
